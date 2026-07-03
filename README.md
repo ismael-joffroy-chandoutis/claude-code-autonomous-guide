@@ -27,3 +27,5 @@ Dynamic workflows are a **research preview** (June 2026). Names, caps and keywor
 ## License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — Ismaël Joffroy Chandoutis, 2026.
+
+Par [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).
