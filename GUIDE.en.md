@@ -265,4 +265,4 @@ Once a recipe works: save it (`s` in `/workflows`) and it becomes a command. The
 
 *This guide was produced with the method it describes: a deep research dynamic workflow (109 agents, 26 sources, 25 claims verified by adversarial votes), completed by a direct reading of primary sources, then human writing and review. Along the way, the verification killed viral claims, and the human re-read corrected the verification itself (the single official mention of `/goal`, missed by all three verifiers). The machine verified, the human signed: in that order, and both.*
 
-*License CC BY 4.0. Corrections and feedback welcome via issues.*
+*License CC BY-NC-ND 4.0. Corrections and feedback welcome via issues.*

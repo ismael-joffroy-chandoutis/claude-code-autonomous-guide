@@ -265,4 +265,4 @@ Une fois qu'une recette marche : sauvegarde-la (`s` dans `/workflows`) et elle d
 
 *Ce guide a été produit avec la méthode qu'il décrit : un dynamic workflow de deep research (109 agents, 26 sources, 25 claims vérifiés par votes adversariaux), complété par une lecture directe des sources primaires, puis rédaction et relecture humaine. En route, la vérification a tué des claims viraux, et la relecture humaine a corrigé la vérification elle-même (l'unique mention officielle de `/goal`, ratée par les trois vérificateurs). La machine a vérifié, l'humain a signé : dans cet ordre, et les deux.*
 
-*Licence CC BY 4.0. Corrections et retours bienvenus via issues.*
+*Licence CC BY-NC-ND 4.0. Corrections et retours bienvenus via issues.*
